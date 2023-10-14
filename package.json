@@ -1,0 +1,21 @@
+{
+  "name": "connectionpooling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/pg": "^8.10.3",
+    "@vitest/coverage-v8": "^0.34.5",
+    "vitest": "^0.34.5"
+  },
+  "dependencies": {
+    "mysql2": "^3.6.1",
+    "pg": "^8.11.3",
+    "ulid": "^2.3.0"
+  }
+}
